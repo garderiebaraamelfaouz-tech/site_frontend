@@ -1,0 +1,55 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
+  theme: {
+    extend: {
+      colors: {
+        primary: {
+          DEFAULT: '#2ECC71',
+          50: '#E8F8F0',
+          100: '#D1F1E1',
+          200: '#A3E3C3',
+          300: '#75D5A5',
+          400: '#47C787',
+          500: '#2ECC71',
+          600: '#25A65C',
+          700: '#1C7F47',
+          800: '#135932',
+          900: '#0A331D',
+        },
+        secondary: {
+          DEFAULT: '#F1C40F',
+          50: '#FEF9E7',
+          100: '#FDF3CF',
+          200: '#FBE79F',
+          300: '#F9DB6F',
+          400: '#F5CF3F',
+          500: '#F1C40F',
+          400: '#F5CF3F',
+          600: '#C19D0C',
+          700: '#917609',
+          800: '#624E06',
+          900: '#322703',
+        },
+        navy: {
+          DEFAULT: '#0F2C59',
+          50: '#E8EDF4',
+          100: '#D1DBE9',
+          200: '#A3B7D3',
+          300: '#7593BD',
+          400: '#476FA7',
+          500: '#1A4B91',
+          600: '#14386D',
+          700: '#0F2C59',
+          800: '#0A1E40',
+          900: '#050F27',
+        },
+      },
+      fontFamily: {
+        sans: ['Poppins', 'Cairo', 'Tajawal', 'sans-serif'],
+        arabic: ['Cairo', 'Tajawal', 'sans-serif'],
+      },
+    },
+  },
+  plugins: [],
+};

@@ -1,0 +1,198 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "packs": "Nos Formules",
+    "about": "À Propos",
+    "contact": "Contact",
+    "register": "S'inscrire",
+    "admin": "Administration"
+  },
+  "hero": {
+    "title": "Baraam El Faouz",
+    "subtitle": "Un éveil et un éducation d'excellence",
+    "description": "Un espace sûr et aimant où vos enfants grandissent avec confiance et créativité. Nous offrons les meilleurs programmes éducatifs et récréatifs pour construire un avenir radieux à vos enfants.",
+    "cta": "S'inscrire maintenant",
+    "ctaFr": "S'inscrire maintenant"
+  },
+  "services": {
+    "title": "Nos Services",
+    "subtitle": "Une gamme complète de services éducatifs et récréatifs",
+    "followUp": "Suivi Scolaire",
+    "followUpDesc": "Un suivi continu des études de votre enfant avec une équipe pédagogique qualifiée",
+    "clubs": "Clubs Éducatifs",
+    "clubsDesc": "Clubs intellectuels et éducatifs : Coran, Mathématiques Mentales, Théâtre, Échecs, Français et Anglais",
+    "care": "Garde Quotidienne",
+    "careDesc": "Un environnement sûr et confortable avec des soins spécialisés tout au long de la journée",
+    "meals": "Repas Sains",
+    "mealsDesc": "Des repas nutritifs et équilibrés pour accompagner votre enfant tout au long de la journée"
+  },
+  "clubs": {
+    "quran": "Coran",
+    "mentalMath": "Maths Mentales",
+    "theater": "Théâtre",
+    "chess": "Échecs",
+    "french": "Français",
+    "english": "Anglais"
+  },
+  "packs": {
+    "title": "Nos Formules & Tarifs",
+    "subtitle": "Choisissez la formule adaptée à votre enfant",
+    "preparatoire": "Préparatoire",
+    "primaire": "Primaire",
+    "collegeLycee": "Collège & Lycée (Cours Privés)",
+    "nightCare": "Garde Nocturne",
+    "vip": "Formule VIP Mensuelle",
+    "morning": "Matin",
+    "fullDay": "Journée Complète",
+    "extended": "Journée Étendue",
+    "halfDayWithBreakfast": "Demi-journée avec petit-déjeuner",
+    "perNight": "Par nuit",
+    "monthly": "Mensuel",
+    "days": "12 jours / 2h par jour",
+    "allInclusive": "Tout inclus",
+    "features": {
+      "breakfast": "Petit-déjeuner",
+      "dinner": "Dîner",
+      "clubs": "Clubs éducatifs",
+      "lessons": "Cours de soutien",
+      "nightStays": "4 nuits de garde"
+    },
+    "from": "À partir de",
+    "currency": "DT",
+    "hours": "heures",
+    "with": "avec",
+    "and": "et"
+  },
+  "register": {
+    "title": "Inscrire votre enfant",
+    "subtitle": "Remplissez le formulaire ci-dessous pour inscrire votre enfant à Baraam El Fawz",
+    "fullName": "Nom complet de l'enfant",
+    "birthDate": "Date de naissance",
+    "classLevel": "Niveau scolaire",
+    "parentName": "Nom du parent",
+    "phone": "Numéro de téléphone",
+    "email": "Email (optionnel)",
+    "selectedPack": "Formule souhaitée",
+    "submit": "Envoyer l'inscription",
+    "success": "L'inscription de votre enfant a été envoyée avec succès ! Nous vous contacterons bientôt.",
+    "error": "Une erreur s'est produite lors de l'inscription. Veuillez réessayer.",
+    "selectLevel": "Choisir le niveau",
+    "selectPack": "Choisir la formule",
+    "preparatoire": "Préparatoire",
+    "primaire": "Primaire",
+    "college": "Collège",
+    "lycee": "Lycée",
+    "noPack": "Pas encore décidé"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Nous sommes ravis de recevoir vos questions et messages",
+    "name": "Nom",
+    "email": "Email",
+    "phone": "Téléphone",
+    "message": "Message",
+    "submit": "Envoyer le message",
+    "success": "Votre message a été envoyé avec succès !",
+    "error": "Une erreur s'est produite. Veuillez réessayer.",
+    "phoneLabel": "Téléphone",
+    "addressLabel": "Adresse",
+    "emailLabel": "Email",
+    "info": {
+      "phone": "+216 XX XXX XXX",
+      "address": "Djerba Midoun, Tunisie",
+      "email": "garderiebaraamelfaouz@gmail.com"
+    }
+  },
+  "about": {
+    "title": "À Propos",
+    "subtitle": "Découvrez Baraam El Fawz",
+    "vision": "Notre Vision Pédagogique",
+    "visionText": "Nous croyons que chaque enfant est unique et mérite la meilleure opportunité de croître et de se développer. Notre vision est de créer un environnement éducatif stimulant qui combine l'académique et les activités récréatives pour développer les capacités mentales, physiques et sociales de chaque enfant.",
+    "values": "Nos Valeurs",
+    "valuesText": {
+      "quality": {
+        "title": "Qualité",
+        "description": "Nous nous engageons à fournir un enseignement de haute qualité et des soins exceptionnels pour chaque enfant, en utilisant les méthodes pédagogiques les plus modernes."
+      },
+      "creativity": {
+        "title": "Créativité",
+        "description": "Nous encourageons l'imagination et l'innovation à travers des activités artistiques, des jeux éducatifs et des projets créatifs qui stimulent l'esprit de chaque enfant."
+      },
+      "inclusion": {
+        "title": "Inclusion",
+        "description": "Chaque enfant est unique et précieux. Nous créons un environnement où tous les enfants se sentent valorisés, respectés et soutenus dans leur développement."
+      }
+    },
+    "team": "Notre Équipe",
+    "teamText": "Notre équipe d'enseignants spécialisés et d'éducateurs formés travaille avec passion et dévouement pour garantir que chaque enfant reçoit les soins et l'attention qu'il mérite.",
+    "teamMembers": {
+      "educators": {
+        "title": "Éducateurs Qualifiés",
+        "description": "Nos éducateurs sont passionnés par l'enfance et possèdent une formation spécialisée en pédagogie et développement de l'enfant."
+      },
+      "specialists": {
+        "title": "Spécialistes Pédagogiques",
+        "description": "Une équipe de spécialistes en éducation qui conçoit des programmes adaptés aux besoins de chaque tranche d'âge."
+      },
+      "psychologists": {
+        "title": "Psychologues Enfants",
+        "description": "Nos psychologues accompagnent le développement émotionnel et social de chaque enfant avec expertise et bienveillance."
+      }
+    },
+    "stats": {
+      "students": "élèves inscrits",
+      "years": "années d'expérience",
+      "clubs": "clubs éducatifs",
+      "success": "taux de satisfaction"
+    }
+  },
+  "admin": {
+    "dashboard": "Tableau de Bord",
+    "students": "Élèves",
+    "inbox": "Messages",
+    "settings": "Paramètres",
+    "logout": "Déconnexion",
+    "totalRegistrations": "Total Inscriptions",
+    "pendingApprovals": "En Attente",
+    "unreadMessages": "Non Lus",
+    "confirmed": "Confirmé",
+    "welcome": "Bienvenue",
+    "actions": "Actions",
+    "confirm": "Confirmer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "export": "Exporter",
+    "filterByLevel": "Filtrer par niveau",
+    "filterByStatus": "Filtrer par statut",
+    "all": "Tous",
+    "studentName": "Nom de l'élève",
+    "birthDate": "Date de naissance",
+    "level": "Niveau",
+    "pack": "Formule",
+    "status": "Statut",
+    "date": "Date",
+    "noMessages": "Aucun message",
+    "markAsRead": "Marquer comme lu",
+    "heroImage": "Image de fond Hero",
+    "welcomeDescAr": "Description d'accueil (Arabe)",
+    "welcomeDescFr": "Description d'accueil (Français)",
+    "contactPhone": "Téléphone de contact",
+    "contactAddress": "Adresse du centre",
+    "saveSettings": "Enregistrer",
+    "settingsUpdated": "Paramètres mis à jour avec succès",
+    "addAdmin": "Ajouter un Admin",
+    "changePassword": "Changer le Mot de Passe",
+    "newUsername": "Nouveau nom d'utilisateur",
+    "newPassword": "Nouveau mot de passe",
+    "currentPassword": "Mot de passe actuel",
+    "createAdmin": "Créer un Admin",
+    "updatePassword": "Mettre à Jour"
+  },
+  "footer": {
+    "description": "Baraam El Fawz – Les meilleurs soins et éducation pour vos enfants",
+    "quickLinks": "Liens Rapides",
+    "contactInfo": "Coordonnées",
+    "allRights": "Tous droits réservés",
+    "copyright": "© 2024 Baraam El Fawz"
+  }
+}
